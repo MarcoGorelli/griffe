@@ -10,7 +10,7 @@ license = {text = "ISC"}
 readme = "README.md"
 requires-python = ">=3.9"
 keywords = ["api", "signature", "breaking-changes", "static-analysis", "dynamic-analysis"]
-dynamic = ["version"]
+version = "1.5.1"
 classifiers = [
     "Development Status :: 5 - Production/Stable",
     "Intended Audience :: Developers",
