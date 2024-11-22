@@ -54,7 +54,7 @@ stdlib_decorators = {
 }
 """Mapping of standard library decorators to labels."""
 
-typing_overload = {"typing.overload", "typing_extensions.overload"}
+typing_overload = {}
 """Set of recognized typing overload decorators.
 
 When such a decorator is found, the decorated function becomes an overload.
